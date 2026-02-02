@@ -2,7 +2,7 @@ public class app {
 
     public static void main(String[] args) {
      
-     Stopwatch stopwatch = new Stopwatch();
+     System.out.println("Hello, World!");
    
     }
    }
